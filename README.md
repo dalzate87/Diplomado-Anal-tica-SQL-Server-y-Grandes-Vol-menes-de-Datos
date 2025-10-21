@@ -1,0 +1,1 @@
+Recopilatorio de ejercicios de consultas en SQL Server utilizando python, análisis de series de tiempo con métodos estadísticos y de Machine Learning. Uso de Deep Lerning para clasificar imagenes.
